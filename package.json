@@ -1,0 +1,21 @@
+{
+  "name": "at3",
+  "version": "0.0.1",
+  "description": "run a function at a specific time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "at",
+    "run"
+  ],
+  "author": "Alexander Löhr",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chai": "^4.3.6",
+    "dayjs": "^1.11.4",
+    "mocha": "^10.0.0"
+  }
+}
