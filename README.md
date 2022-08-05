@@ -1,6 +1,6 @@
 # at3
 
-Run code **at** a specific time.
+Run something **at** a specific time.
 
 ## Install
 
