@@ -1,7 +1,7 @@
 {
    "name": "at3",
    "version": "0.1.0",
-   "description": "run a function at a specific time",
+   "description": "run something at a specific time",
    "main": "index.js",
    "scripts": {
       "test": "mocha"
