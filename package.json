@@ -1,6 +1,6 @@
 {
    "name": "at3",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "description": "run something at a specific time",
    "main": "index.js",
    "scripts": {
